@@ -38,9 +38,7 @@ Ensure you have `Node.js` and `npm` installed. Then, run the following command i
 You can run the project with 
 ```
  npm run dev
-
 ```
 
 Check it out in my Postman API Documentation!
-```
 https://documenter.getpostman.com/view/26936790/2s9YXmWzwk#57b78f2c-1e36-4604-b038-11e54f40b175
